@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>1cffadf0f0a34c85861b0b1a9270ab11</client_id>
+        <client_secret>﷞﷟﷒969c904c5391121029af38e0a0490ee0﷬﷔1﷬﷭S84QxwSsXNk3WIpjprHktQ==AMEDDhnbvFlEwVjY_n_Y4cGurrFcRcVPbogbrvClCTttDOZto3mzLdACaT_2H28uwWRbtR_a24Y=﷮﷯</client_secret>
+        <client_type/>
+        <client_uuid>4412dcf653191a1029af38e0a0490e66</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <jwt_provider/>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>Gal gitHub</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url/>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-20 18:22:40</sys_created_on>
+        <sys_id>8412dcf653191a1029af38e0a0490e66</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gal gitHub</sys_name>
+        <sys_package display_value="IPLookup" source="x_snc_iplookup">a93d86d65399961029af38e0a0490e60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">a93d86d65399961029af38e0a0490e60</sys_scope>
+        <sys_update_name>oauth_entity_8412dcf653191a1029af38e0a0490e66</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-20 18:22:40</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>
